@@ -1,6 +1,7 @@
 ### Raul Valle
 <hr/>
-#### Undergraduate Computer Engineer @ UF | Audio Scene Analysis @ CNEL
+<h4> Undergraduate Computer Engineer @ UF | Audio Scene Analysis @ CNEL <h4/>
+<br/>
 
 
 
