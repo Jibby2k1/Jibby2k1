@@ -1,9 +1,10 @@
-### Raul Valle
+<h2> Raul Valle <h2/>
 <hr/>
-<h4> Undergraduate Computer Engineer @ UF | Audio Scene Analysis @ CNEL <h4/>
+<h4> Undergraduate Computer Engineer @ UF | Audio Scene Analysis @ CNEL | Hardware & Software Lead @ AES <h4/>
 <br/>
-
-
+<ol>I am a 4th Year Computer Engineer</ol>
+<ol>My studies focus on Signal Processing Theory and Implementation</ol>
+<ol>An aspiring Machine Learning Researcher</ol>
 
 <!--
 **Jibby2k1/Jibby2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
