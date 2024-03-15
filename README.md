@@ -1,4 +1,8 @@
-### Hi there 👋
+### Raul Valle
+<hr/>
+#### Undergraduate Computer Engineer @ UF | Audio Scene Analysis @ CNEL
+
+
 
 <!--
 **Jibby2k1/Jibby2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
