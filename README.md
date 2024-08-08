@@ -8,7 +8,7 @@ I am a passionate Computer Engineer, with a love for Mathematics. I enjoy workin
 
 ## 🔭 Current Projects
 
-- [Workshop Archive](https://github.com/Jibby2k1/WorkshopArchive) - Many early career and even late career struggle to see how their skills can be applied to innovative and interesting projects, my goal in contributing to this archive is to standardize a workshop layout that helps teach the skills to newbie engineers, and apply the skills for advanced engineers.
+- [SPS Curriculum](https://github.com/Jibby2k1/SPS_Curriculum) - Many early career and even late career struggle to see how their skills can be applied to innovative and interesting projects, my goal in contributing to this archive is to standardize a workshop layout that helps teach the skills to newbie engineers, and apply the skills for advanced engineers.
 
 ## 🌱 Learning & Development
 
