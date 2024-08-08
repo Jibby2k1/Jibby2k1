@@ -25,11 +25,11 @@ Feel free to reach out to me via [rvalle1@ufl.edu](mailto:rvalle1@ufl.edu) or th
 
 ## ⚡ Fun Fact
 
-- I DJ and Produce Music on my free-time.
+- I DJ and Produce Electronic Music on my free-time, especially Dance, Trance and Techno.
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** C, C++, Python
-- **Frameworks/Libraries:** CUDA C, RAPIDS, Numba
+- **Languages:** Assembly, C, C++, Python
+- **Frameworks/Libraries:** CUDA C, RAPIDS, Numba, Discord API, OpenAI API
 
 *Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Have a great day!*
