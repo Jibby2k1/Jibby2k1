@@ -1,35 +1,90 @@
 # Hi there, I'm Raul Valle 👋
 
-![Your Banner Image](https://i.pinimg.com/originals/b7/cb/e4/b7cbe4a18a844e7c786e92f67e6015c1.jpg)
+<!-- Banner -->
 
-## About Me
+![Header](https://i.pinimg.com/originals/b7/cb/e4/b7cbe4a18a844e7c786e92f67e6015c1.jpg)
 
-I am a passionate Computer Engineer, with a love for Mathematics. I enjoy working on projects that involve Signal Processing and Machine Learning. My goal is to continually grow and contribute to the tech community.
+<p align="center">
+  <a href="mailto:rvalle1@ufl.edu">Email</a> •
+  <a href="https://www.linkedin.com/in/raul-valle1/">LinkedIn</a> •
+  <a href="https://github.com/Jibby2k1">GitHub</a>
+</p>
 
-## 🔭 Current Projects
+---
 
-- [SPS Curriculum](https://github.com/Jibby2k1/SPS_Curriculum) - Many early career and even late career struggle to see how their skills can be applied to innovative and interesting projects, my goal in contributing to this archive is to standardize a workshop layout that helps teach the skills to newbie engineers, and apply the skills for advanced engineers.
+## 🔎 About Me
 
-## 🌱 Learning & Development
+I'm a Computer Engineer and PhD student focused on **signal processing** and **machine learning** for neural and physiological data. I build **real‑time, interpretable learning systems** (GPU‑accelerated) and lead community workshops that make advanced topics approachable for newcomers and useful for experts.
 
-- Currently learning: Deep Learning & Neural Networks, Operating Systems, and Computer System Design. 
-- Interested in: Adaptive Signal Processing (especially Real Time Signal Processing).
+* President & co‑founder, **IEEE Signal Processing Society @ UF**
+* Researcher, **Computational NeuroEngineering Lab (CNEL), University of Florida**
+* Interests: **state‑space models**, **online/streaming learning**, **information‑theoretic objectives**, **assistive neurotechnology**
 
-## 💬 Let's Connect
+---
 
-- [LinkedIn](https://www.linkedin.com/in/raul-valle1/)
+## 🔭 What I’m Working On
 
-## 📫 How to Reach Me
+* **SPS Curriculum** – Standardized, hands‑on workshops for signal processing & ML at UF (2024–2025).
+* **Zebrafish Voltage‑Imaging & Neuromechanics Analysis** – Open analysis tools for 2D voltage imaging and behavior alignment.
+* **Plato’s Cave** – A human‑centered, agentic system for validating research papers (contributor).
+* **DinoDetect** – Discord analytics + simple NLP/LLM‑assisted workflows for community moderation & insights.
 
-Feel free to reach out to me via [rvalle1@ufl.edu](mailto:rvalle1@ufl.edu) or through any of the social media platforms listed above.
+> I care about **robustness, latency, and interpretability**: if a method is fast and reliable, we can use it in the loop with humans.
 
-## ⚡ Fun Fact
+---
 
-- I DJ and Produce Electronic Music on my free-time, especially Dance, Trance and Techno.
+## 🧰 Tools & Technologies
 
-## 🛠️ Tools & Technologies
+**Languages**: Python, C/C++, (some) Assembly, TypeScript
+**Compute**: CUDA, CuPy, PyTorch, RAPIDS, Numba
+**DSP/ML**: Signal processing pipelines, state‑space models, Kalman filters, online learning
+**Data/Apps**: Jupyter, FastAPI, Next.js/React, Discord API, OpenAI API
+**Workflow**: Git, GitHub Actions, Conda, VS Code
 
-- **Languages:** Assembly, C, C++, Python
-- **Frameworks/Libraries:** CUDA C, RAPIDS, Numba, Discord API, OpenAI API
+---
 
-*Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Have a great day!*
+## 📚 Selected Projects
+
+* **SPS_Curriculum** · Jupyter workshops for SP/ML at UF → [https://github.com/Jibby2k1/SPS_Curriculum](https://github.com/Jibby2k1/SPS_Curriculum)
+* **Zebrafish‑VoltageImaging‑Neuromechanics‑Analysis** · Python analysis utilities for optical voltage imaging → [https://github.com/Jibby2k1/Zebrafish-VoltageImaging-Neuromechanics-Analysis](https://github.com/Jibby2k1/Zebrafish-VoltageImaging-Neuromechanics-Analysis)
+* **DinoDetect** · Discord analytics + LLM‑assisted trend discovery → [https://github.com/Jibby2k1/DinoDetect](https://github.com/Jibby2k1/DinoDetect)
+* **copit** · Mobile, recommendation‑style shopping prototype (TypeScript) → [https://github.com/Jibby2k1/copit](https://github.com/Jibby2k1/copit)
+* **PythonDJ** · Small DSP + music tooling experiments → [https://github.com/Jibby2k1/PythonDJ](https://github.com/Jibby2k1/PythonDJ)
+* **SwampScheduler (fork)** · Scheduling app experiments → [https://github.com/Jibby2k1/SwampScheduler](https://github.com/Jibby2k1/SwampScheduler)
+* **WorkshopArchive (fork)** · Archived workshop materials → [https://github.com/Jibby2k1/WorkshopArchive](https://github.com/Jibby2k1/WorkshopArchive)
+
+> I pin a rotating set of repos on my profile; feel free to browse the rest.
+
+---
+
+## 🌱 Currently Learning
+
+* **Numerical linear algebra & modern analysis** (for ML theory)
+* **Online & adaptive filtering** for **real‑time** inference
+* **OS / systems** for reproducible, low‑latency pipelines
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you’re building **assistive neurotech**, **robust DSP/ML**, or **open education** resources, I’m happy to chat. Best way to reach me is by email or LinkedIn.
+
+---
+
+## ⚡ Fun
+
+When I’m not coding, I **DJ and produce** electronic music (dance, trance, techno) and run hands‑on workshops for the UF community.
+
+---
+
+## 📈 GitHub at a Glance
+
+<p>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jibby2k1&show_icons=true&hide_title=true"/>
+</p>
+
+<!-- Feel free to remove the stats card above if you prefer a lighter README. -->
+
+---
+
+*Thanks for stopping by—enjoy the repos and say hi!*
