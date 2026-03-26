@@ -8,6 +8,7 @@
   <a href="mailto:rvalle1@ufl.edu">Email</a> •
   <a href="https://www.linkedin.com/in/raul-valle1/">LinkedIn</a> •
   <a href="https://github.com/Jibby2k1">GitHub</a>
+  <a href="https://www.raulv.dev">PersonalWebsite</a>
 </p>
 
 ---
