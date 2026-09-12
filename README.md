@@ -5,30 +5,33 @@
 ![Header](https://i.pinimg.com/originals/b7/cb/e4/b7cbe4a18a844e7c786e92f67e6015c1.jpg)
 
 <p align="center">
+  <a href="https://www.raulv.dev">Website</a> •
   <a href="mailto:rvalle1@ufl.edu">Email</a> •
   <a href="https://www.linkedin.com/in/raul-valle1/">LinkedIn</a> •
-  <a href="https://github.com/Jibby2k1">GitHub</a>
-  <a href="https://www.raulv.dev">PersonalWebsite</a>
+  <a href="https://orcid.org/0009-0004-0487-0086">ORCID</a> •
+  <a href="https://scholar.google.com/citations?user=v5_9hm8AAAAJ&hl=en">Google Scholar</a>
 </p>
 
 ---
 
 ## 🔎 About Me
 
-I'm a Computer Engineer and PhD student focused on **signal processing** and **machine learning** for neural and physiological data. I build **real‑time, interpretable learning systems** (GPU‑accelerated) and lead community workshops that make advanced topics approachable for newcomers and useful for experts.
+I'm a PhD student in Electrical & Computer Engineering at the University of Florida, building **machine learning for physical and neural systems**. My current research learns **surrogate models for computational fluid dynamics** — fast stand-ins for expensive physics solvers, held accountable to the physics they approximate. That sits on a foundation of signal processing, time-series ML, and neuroengineering.
 
-* President & co‑founder, **IEEE Signal Processing Society @ UF**
+* Researcher, **SmartDATA Lab, University of Florida** — CFD surrogate modeling with Dr. Joel B. Harley
 * Researcher, **Computational NeuroEngineering Lab (CNEL), University of Florida**
-* Interests: **state‑space models**, **online/streaming learning**, **information‑theoretic objectives**, **assistive neurotechnology**
+* President (2026–2027) & co-founder, **IEEE Signal Processing Society @ UF**
+* Interests: **neural operators**, **reduced-order modeling**, **state-space models**, **online/streaming learning**, **interpretable ML under noise**
 
 ---
 
 ## 🔭 What I’m Working On
 
-* **SPS Curriculum** – Standardized, hands‑on workshops for signal processing & ML at UF (2024–2025).
-* **Zebrafish Voltage‑Imaging & Neuromechanics Analysis** – Open analysis tools for 2D voltage imaging and behavior alignment.
-* **Plato’s Cave** – A human‑centered, agentic system for validating research papers (contributor).
-* **DinoDetect** – Discord analytics + simple NLP/LLM‑assisted workflows for community moderation & insights.
+* **CFD Surrogate Modeling** – Learned surrogates for computational fluid dynamics: neural operators, mesh graph networks, and physics-informed training, judged on rollout stability and physical consistency.
+* **Kernel Adaptive Memory** – Preregistered experiments on whether kernel-routed persistent memory helps sequence models.
+* **Zebrafish Voltage-Imaging & Neuromechanics Analysis** – Event detection and source separation for optical voltage imaging.
+* **SPS Curriculum** – Standardized, hands-on workshops for signal processing & ML at UF.
+* **Plato’s Cave** – A human-centered system for validating research papers ([arXiv:2603.23526](https://arxiv.org/abs/2603.23526), contributor).
 
 > I care about **robustness, latency, and interpretability**: if a method is fast and reliable, we can use it in the loop with humans.
 
@@ -38,7 +41,7 @@ I'm a Computer Engineer and PhD student focused on **signal processing** and **m
 
 **Languages**: Python, C/C++, (some) Assembly, TypeScript
 **Compute**: CUDA, CuPy, PyTorch, RAPIDS, Numba
-**DSP/ML**: Signal processing pipelines, state‑space models, Kalman filters, online learning
+**DSP/ML**: Surrogate modeling, neural operators, signal processing pipelines, state‑space models, Kalman filters, online learning
 **Data/Apps**: Jupyter, FastAPI, Next.js/React, Discord API, OpenAI API
 **Workflow**: Git, GitHub Actions, Conda, VS Code
 
@@ -54,7 +57,7 @@ I'm a Computer Engineer and PhD student focused on **signal processing** and **m
 * **SwampScheduler (fork)** · Scheduling app experiments → [https://github.com/Jibby2k1/SwampScheduler](https://github.com/Jibby2k1/SwampScheduler)
 * **WorkshopArchive (fork)** · Archived workshop materials → [https://github.com/Jibby2k1/WorkshopArchive](https://github.com/Jibby2k1/WorkshopArchive)
 
-> I pin a rotating set of repos on my profile; feel free to browse the rest.
+> Full project write-ups, with diagrams and method notes, live at [raulv.dev](https://www.raulv.dev/research.html).
 
 ---
 
@@ -68,7 +71,7 @@ I'm a Computer Engineer and PhD student focused on **signal processing** and **m
 
 ## 🤝 Let’s Collaborate
 
-If you’re building **assistive neurotech**, **robust DSP/ML**, or **open education** resources, I’m happy to chat. Best way to reach me is by email or LinkedIn.
+If you’re building **scientific ML**, **assistive neurotech**, **robust DSP/ML**, or **open education** resources, I’m happy to chat. Best way to reach me is by email or LinkedIn.
 
 ---
 
